@@ -1,0 +1,28 @@
+.item{
+    height: 150px;
+    width: 150px;
+    justify-content: space-around;  
+    align-items: center;
+    margin: 10px;
+}
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+}
+.a{
+    background-color: blue;
+}
+.b{
+    background-color: black;
+}
+.c{
+    background-color: red;
+}
+.d{
+    background-color: green;
+}
+.flexbox{
+    flex-direction: row-reverse;
+}
+
+
